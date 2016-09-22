@@ -1,0 +1,9 @@
+Building SincereCoin
+
+See doc/readme-qt.rst for instructions on building SincereCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SincereCoin.
+
+See doc/build-*.txt for instructions on building sincerecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SincereCoin.
